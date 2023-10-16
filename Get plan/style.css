@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.get-plan {
+    width: 100%;
+}
+.heading {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    
+}
+img {
+    width: 10px;
+    height: 30px;
+}
+.heading-paragraph {
+    font-size: 10px;
+    font-family: sans-serif;
+    color: grey;
+}
+h2 {
+    font-family: sans-serif;
+}
+.price-tag {
+    display: flex;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding: 0 20px;
+    justify-content: center;
+}
+.card3 {
+    width: 250px;
+    height: 500px;
+   
+}
+.card2 {
+    margin: 0 20px;
+    width: 250px;
+    height: 500px;
+}
+.card1 {
+    width: 250px;
+    height: 500px;
+}
+.plan {
+    border: 1px solid transparent;
+    background-color: rgba(76,29,140,255);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.card {
+    background-color: rgba(238,246,249,255);
+    height: 400px;
+    line-height: 50px;
+    border-radius: 10px;
+}
+.card22 {
+    background-color: rgba(238,246,249,255);
+    height: 400px;
+    line-height: 50px;
+    border-radius: 10px;
+    border: 2px solid #eb2b63;
+    box-shadow: 2px 19px 19px 15px rgb(237, 233, 233);
+}
+.dollar {
+    font-size: 40px;
+    color: #595959;
+}
+span {
+    font-size: 15px;
+}
+.storage {
+    color: grey;
+    font-weight: lighter;
+}
+button {
+    padding:15px 70px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: rgba(235,43,99,255);
+    color: white;
+}
+.plan2 {
+    border: 1px solid transparent;
+    background-color: rgba(235,43,99,255);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
